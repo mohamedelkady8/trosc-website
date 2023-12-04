@@ -7,7 +7,6 @@ body {
 body.my-login-page {
   background-color: #f7f9fb;
   background-image: url("../img/natalie-pedigo-wJK9eTiEZHY-unsplash.jpg");
-  background-repeat: no-repeat;
   background-size: cover;
   font-size: 14px;
 }

@@ -67,7 +67,7 @@ $(function () {
     // Check if the provided credentials match the hardcoded values
     if (email === "elkady@trosc.com" && password === "123") {
       // Redirect to home.html upon successful login
-      window.location.href = "/home/home.html";
+      window.location.href = "home/home.html";
     } else {
       alert("Invalid email or password. Please try again.");
     }
