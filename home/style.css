@@ -80,6 +80,7 @@ i {
 .bg-body-tertiary {
   background-color: #900a0b;
   color: #e9ecef;
+  text-decoration: none;
 }
 
 .icns {
